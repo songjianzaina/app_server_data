@@ -2,12 +2,12 @@
     "isForce": false,
     "updateIgnoreVersion": false,
     "newVersion": 101,
-    "title": "重大更新",
+    "title": "是否更新到最新版本?",
     "updateInfo": "test update",
     "type": "download",
     "jumpThird": {
-        "payURL": "https://raw.githubusercontent.com/itlwy/AppSmartUpdate/master/resources/app/smart-update.apk",
-        "picUrl": "https://raw.githubusercontent.com/songjianzaina/app_server_data/edit/master/update/update.png"
+        "payURL": "https://www.pgyer.com/yuncnpay",
+        "picUrl": "https://img-my.csdn.net/uploads/201204/11/1334132023_8163.jpg"
     },
     "download": {
         "apkURL": "https://raw.githubusercontent.com/songjianzaina/app_server_data/edit/master/update/update.apk"
