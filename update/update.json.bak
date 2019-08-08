@@ -1,0 +1,15 @@
+{
+  "isForce": false,
+  "updateIgnoreVersion": false,
+  "newVersion": 101,
+  "tip": "test update",
+  "type": "download",
+  "jumpThird": {
+      "field": "value",
+      "payURL": "https://raw.githubusercontent.com/itlwy/AppSmartUpdate/master/resources/app/smart-update.apk",
+      "picUrl": "https://raw.githubusercontent.com/itlwy/AppSmartUpdate/master/resources/app/smart-update.apk"
+  },
+  "download": {
+      "apkURL": "https://raw.githubusercontent.com/itlwy/AppSmartUpdate/master/resources/app/smart-update.apk"
+  }
+}
