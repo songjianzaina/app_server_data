@@ -1,15 +1,15 @@
 {
     "isForce": false,
-    "updateIgnoreVersion": false,
+    "updateIgnoreVersion": true,
     "newVersion": 101,
-    "title": "�ش����",
-    "updateInfo": "test update",
+    "title": "是否更新到最新版本?",
+    "updateInfo": "1.test update\n2.修复UI\n3.增加新功能",
     "type": "download",
     "jumpThird": {
         "payURL": "https://www.pgyer.com/yuncnpay",
         "picUrl": "https://img-my.csdn.net/uploads/201204/11/1334132023_8163.jpg"
     },
     "download": {
-        "apkURL": "https://raw.githubusercontent.com/songjianzaina/app_server_data/edit/master/update/update.apk"
+        "apkURL": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/update/update.apk"
     }
 }
