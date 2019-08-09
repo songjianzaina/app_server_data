@@ -1,8 +1,8 @@
 {
     "isForce": false,
-    "updateIgnoreVersion": false,
+    "updateIgnoreVersion": true,
     "newVersion": 101,
-    "title": "ÊÇ·ñ¸üÐÂµ½×îÐÂ°æ±¾?",
+    "title": "ï¿½Ç·ï¿½ï¿½ï¿½Âµï¿½ï¿½ï¿½ï¿½Â°æ±¾?",
     "updateInfo": "test update",
     "type": "download",
     "jumpThird": {
