@@ -1,0 +1,43 @@
+{
+    "isIntercept": true,
+    "isOpenAd": true,
+    "address": {
+        "street": "科技园路.",
+        "city": "江苏苏州",
+        "country": "中国"
+    },
+    "DwonloadUrlList": [
+        {
+            "name": "updateApk",
+            "key": 0,
+            "url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/update/update.apk"
+        },
+        {
+            "name": "Baidu",
+            "key": 1,
+            "url": "http://www.baidu.com"
+        },
+        {
+            "name": "SoSo",
+            "key": 2,
+            "url": "http://www.SoSo.com"
+        }
+    ],
+    "jumpUrlList": [
+        {
+            "name": "cardInvite",
+            "key": 0,
+            "url": "https://interacts.hq.vidata.com.cn/h5/card-platform/index.html?source=18106&userid=M1909009593457"
+        },
+        {
+            "name": "machineInvite",
+            "key": 1,
+            "url": "http://api.yoelian.cn/app.php/login/appreg/m/M1909009593457"
+        },
+        {
+            "name": "machineInvite2",
+            "key": 2,
+            "url": "http://api.yoelian.cn/app.php/login/appreg/m/M132927/token/yyl3ec02282b4e934c89ea507dc80482bab"
+        }
+    ]
+}
