@@ -2,7 +2,7 @@
     "isIntercept": true,
     "isOpenAd": true,
     "isOpenLog": false,
-    "urlType": "DwonloadUrlList",
+    "urlType": "jumpUrlList",
     "address": {
         "street": "科技园路.",
         "city": "江苏苏州",
