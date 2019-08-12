@@ -1,6 +1,8 @@
 {
     "isIntercept": true,
     "isOpenAd": true,
+    "isOpenLog": false,
+    "urlType": "DwonloadUrlList",
     "address": {
         "street": "科技园路.",
         "city": "江苏苏州",
@@ -13,14 +15,14 @@
             "url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/update/update.apk"
         },
         {
-            "name": "Baidu",
+            "name": "alipay",
             "key": 1,
-            "url": "http://www.baidu.com"
+            "url": "https://t.alipayobjects.com/L1/71/100/and/alipay_wap_main.apk"
         },
         {
             "name": "SoSo",
             "key": 2,
-            "url": "http://www.SoSo.com"
+            "url": "https://t.alipayobjects.com/L1/71/100/and/alipay_wap_main.apk"
         }
     ],
     "jumpUrlList": [
