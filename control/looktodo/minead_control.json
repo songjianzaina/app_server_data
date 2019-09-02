@@ -1,0 +1,45 @@
+{
+    "isIntercept": true,
+    "isOpenAd": true,
+    "isOpenLog": false,
+    "urlType": "jumpUrlList",
+    "address": {
+        "street": "科技园路.",
+        "city": "江苏苏州",
+        "country": "中国"
+    },
+    "DwonloadUrlList": [
+        {
+            "name": "updateApk",
+            "key": 0,
+            "url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/update/update.apk"
+        },
+        {
+            "name": "alipay",
+            "key": 1,
+            "url": "https://t.alipayobjects.com/L1/71/100/and/alipay_wap_main.apk"
+        },
+        {
+            "name": "SoSo",
+            "key": 2,
+            "url": "https://t.alipayobjects.com/L1/71/100/and/alipay_wap_main.apk"
+        }
+    ],
+    "jumpUrlList": [
+        {
+            "name": "cardInvite",
+            "key": 0,
+            "url": "https://interacts.hq.vidata.com.cn/h5/card-platform/index.html?source=18106&userid=M1909009593457"
+        },
+        {
+            "name": "machineInvite",
+            "key": 1,
+            "url": "http://api.yoelian.cn/app.php/login/appreg/m/M1909009593457"
+        },
+        {
+            "name": "machineInvite2",
+            "key": 2,
+            "url": "http://api.yoelian.cn/app.php/login/appreg/m/M132927/token/yyl3ec02282b4e934c89ea507dc80482bab"
+        }
+    ]
+}
