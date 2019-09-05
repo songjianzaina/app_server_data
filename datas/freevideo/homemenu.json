@@ -1,0 +1,310 @@
+{
+    "vip": {
+        "total": 12,
+        "per_page": 999,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": 5751,
+                "uid": 1,
+                "cid": 2,
+                "name": "综合",
+                "content": "",
+                "linkurl": "http://m.hsx0713.top/",
+                "picurl": "/public/uploads/20190510/d39e21d5c98e372869b0cdcde0b33b51.png",
+                "sort": 0,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 5089,
+                "uid": 1,
+                "cid": 2,
+                "name": "爱奇艺",
+                "content": "",
+                "linkurl": "https://m.iqiyi.com/vip",
+                "picurl": "/public/uploads/20190509/f813e3e467e0b8599821f060a737adc9.png",
+                "sort": 1,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 5090,
+                "uid": 1,
+                "cid": 2,
+                "name": "优酷",
+                "content": "",
+                "linkurl": "https://youku.com/",
+                "picurl": "/public/uploads/20190509/54ce8edd5b2315daaef04871409de772.png",
+                "sort": 1,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 5291,
+                "uid": 1,
+                "cid": 2,
+                "name": "搜狐",
+                "content": "",
+                "linkurl": "https://m.tv.sohu.com/film",
+                "picurl": "/public/uploads/20190510/e50e30b17a9140383beee6efec91e280.png",
+                "sort": 1,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 6220,
+                "uid": 1,
+                "cid": 2,
+                "name": "腾讯视频",
+                "content": "",
+                "linkurl": "https://v.qq.com/",
+                "picurl": "/public/uploads/20190530/8724dabecea90c64a2cfcb11f5efa1f6.png",
+                "sort": 3,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 144,
+                "uid": 1,
+                "cid": 2,
+                "name": "芒果TV",
+                "content": "",
+                "linkurl": "https://m.mgtv.com/channel/vip/",
+                "picurl": "/public/uploads/20190506/1bbc06a0542be02df1c09ca4b0d73651.png",
+                "sort": 7,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 184,
+                "uid": 1,
+                "cid": 2,
+                "name": "咪咕视频",
+                "content": "",
+                "linkurl": "http://m.miguvideo.com/wap/resource/migu/miguH5/index.jsp",
+                "picurl": "/public/uploads/20181122/02a8c7db557042b4831b326f7459d359.png",
+                "sort": 8,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 147,
+                "uid": 1,
+                "cid": 2,
+                "name": "哔哩哔哩",
+                "content": "",
+                "linkurl": "https://m.bilibili.com",
+                "picurl": "/public/uploads/20181122/a4f65b7dd76017e6a2537e8dab3701a5.jpg",
+                "sort": 10,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 6366,
+                "uid": 1,
+                "cid": 2,
+                "name": "美剧",
+                "content": "",
+                "linkurl": "https://www.ttkmj.net/",
+                "picurl": "/public/uploads/20190601/5e2cbd102eee4c96f099626cb3b39857.jpg",
+                "sort": 20,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 6367,
+                "uid": 1,
+                "cid": 2,
+                "name": "韩剧",
+                "content": "",
+                "linkurl": "https://www.hanjuwang.com/",
+                "picurl": "/public/uploads/20190601/f800475f8e00cb0ef7c8dce1cb786065.jpg",
+                "sort": 21,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 6368,
+                "uid": 1,
+                "cid": 2,
+                "name": "港剧",
+                "content": "",
+                "linkurl": "https://www.beeon.cn/",
+                "picurl": "/public/uploads/20190601/a05ff9145e6aa3ea9cf40fc61cdd3c3b.jpg",
+                "sort": 22,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 6369,
+                "uid": 1,
+                "cid": 2,
+                "name": "电影",
+                "content": "",
+                "linkurl": "http://v.sigu.me/",
+                "picurl": "/public/uploads/20190601/a79275b06d9dc51723337b87660e7aca.png",
+                "sort": 24,
+                "del": 1,
+                "cs": 0
+            }
+        ]
+    },
+    "tj": {
+        "total": 4,
+        "per_page": 999,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": 8391,
+                "uid": 78750,
+                "cid": 4,
+                "name": "分享给好友",
+                "content": "注册安装教程",
+                "linkurl": "https://mp.weixin.qq.com/s/Aq30bzHj4YbjcCWBvOzrug",
+                "picurl": "/public/uploads/20190707/d27b467753de42fd5e50d6956b0ec1cd.jpg",
+                "sort": 1,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 8392,
+                "uid": 78750,
+                "cid": 4,
+                "name": "开通会员",
+                "content": "开通会员教程",
+                "linkurl": "https://mp.weixin.qq.com/s/3UaLdRYlm0PM1jLvDnKJVw",
+                "picurl": "/public/uploads/20190707/7a85dd4fac1cff221f82606d5929ddcf.jpg",
+                "sort": 2,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 8393,
+                "uid": 78750,
+                "cid": 4,
+                "name": "开通合伙人",
+                "content": "开通合伙人教程",
+                "linkurl": "https://mp.weixin.qq.com/s/ZCpqVM1mDmxIl5DdjoQ74w",
+                "picurl": "/public/uploads/20190707/0e055dfec978b98636e860e9d68e14a7.jpg",
+                "sort": 3,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 8394,
+                "uid": 78750,
+                "cid": 4,
+                "name": "咨询客服",
+                "content": "可随时咨询服务",
+                "linkurl": "https://mp.weixin.qq.com/s/K7ftwq11x4R4GqFuW7GEHw",
+                "picurl": "/public/uploads/20190707/87df1c4fa299aaf8464e18a405a39c4a.jpg",
+                "sort": 4,
+                "del": 1,
+                "cs": 0
+            }
+        ]
+    },
+    "banner": {
+        "total": 4,
+        "per_page": 999,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": 8388,
+                "uid": 78750,
+                "cid": 1,
+                "name": "首位banner",
+                "content": "首位",
+                "linkurl": "http://api.5sys.cn/jx/?v=https://m.v.qq.com/x/cover/v/vbb35hm6m6da1wc.html?vid=k0031gee0ry",
+                "picurl": "/public/uploads/20190703/93ed8d4101803d0c98cbe6d106b2d2bf.jpg",
+                "sort": 1,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 8733,
+                "uid": 78750,
+                "cid": 1,
+                "name": "",
+                "content": "",
+                "linkurl": "http://api.5sys.cn/jx/?v=https://m.v.qq.com/cover/6/69nk6bxlda1kmt5.html?vid=s003146jngg",
+                "picurl": "/public/uploads/20190707/1df2c4b2a73405fad197e0163f6fa799.jpg",
+                "sort": 2,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 8389,
+                "uid": 78750,
+                "cid": 1,
+                "name": "首页banner",
+                "content": "首页",
+                "linkurl": "https://mp.weixin.qq.com/s/K7ftwq11x4R4GqFuW7GEHw",
+                "picurl": "/public/uploads/20190705/f42a73d3da28792ebab5e5bf3f5e1c05.jpg",
+                "sort": 2,
+                "del": 1,
+                "cs": 0
+            },
+            {
+                "id": 8555,
+                "uid": 78750,
+                "cid": 1,
+                "name": "",
+                "content": "",
+                "linkurl": "http://api.5sys.cn/jx/?v=https://m.v.qq.com/cover/r/rt4fr3c7290zd64.html?vid=w00312b9ljo",
+                "picurl": "/public/uploads/20190703/f406695896eb1215e4ddd0f832dd0608.jpg",
+                "sort": 3,
+                "del": 1,
+                "cs": 0
+            }
+        ]
+    },
+    "lr": {
+        "id": 8390,
+        "uid": 78750,
+        "cid": 3,
+        "name": "首页底部",
+        "content": "首位底部",
+        "linkurl": "http://api.5sys.cn/jx/?v=https://m.v.qq.com/x/cover/x/xyne4253g35nak3.html?",
+        "picurl": "/public/uploads/20190706/c50334cf9cc19a3bfe7d9aabd4f5c4c2.jpg",
+        "sort": 0,
+        "del": 1,
+        "cs": 0
+    },
+    "wz": {
+        "total": 1,
+        "per_page": 999,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": 8407,
+                "uid": 78750,
+                "cid": 12,
+                "name": "零售批发/招商代理/加入合伙，加微信：576369975",
+                "content": "",
+                "linkurl": "https://www.jianshu.com/p/b9995c3949a9",
+                "picurl": "/public/uploads/20190723/b31d0bd75f7777cfb203335db4ecf504.jpg",
+                "sort": 0,
+                "del": 1,
+                "cs": 0
+            }
+        ]
+    },
+    "hb": {
+        "id": 8405,
+        "uid": 78750,
+        "cid": 8,
+        "name": "",
+        "content": "",
+        "linkurl": "https://mp.weixin.qq.com/s/lAzrfKwEGvyOvudx85WNqA",
+        "picurl": "/public/uploads/20190705/cc865579132ec931567cbed90f46f2eb.jpg",
+        "sort": 0,
+        "del": 1,
+        "cs": 0
+    }
+}
