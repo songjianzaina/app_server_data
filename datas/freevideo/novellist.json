@@ -1,0 +1,18 @@
+{
+    "code": "1",
+    "msg": [
+        {
+            "title": "牛牛书城",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1521439425198&di=e943a6d00521e52c19ccea11b58463e5&imgtype=0&src=http%3A%2F%2Fimg.shiting5.com%2Fallimg%2F141014%2F6-1410141J5095D.jpg",
+            "url": "https://m.xgbxg.com/",
+            "id": 1
+        },
+        {
+            "title": "爱书屋",
+            "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1521435358&di=d07f3e1a7c6900b835e1d5c0d0c4e273&src=http://www.haoqu.net/uploadfile/2015/1121/20151121053338284.jpg",
+            "url": "http://book.mwcxs.top/",
+            "id": 2
+        }
+      
+    ]
+}
