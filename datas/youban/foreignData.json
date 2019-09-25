@@ -1,0 +1,23 @@
+[
+    {
+        "title": "CCTV-1",
+        "subtitle": "CCTV-1",
+        "img_url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1521439425198&di=e943a6d00521e52c19ccea11b58463e5&imgtype=0&src=http%3A%2F%2Fimg.shiting5.com%2Fallimg%2F141014%2F6-1410141J5095D.jpg",
+        "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+        "id": 1
+    },
+    {
+        "title": "CCTV-2",
+        "subtitle": "CCTV-2",
+        "img_url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1521439425198&di=e943a6d00521e52c19ccea11b58463e5&imgtype=0&src=http%3A%2F%2Fimg.shiting5.com%2Fallimg%2F141014%2F6-1410141J5095D.jpg",
+        "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+        "id": 1
+    },
+    {
+        "title": "CCTV-3",
+        "subtitle": "CCTV-3",
+        "img_url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1521439425198&di=e943a6d00521e52c19ccea11b58463e5&imgtype=0&src=http%3A%2F%2Fimg.shiting5.com%2Fallimg%2F141014%2F6-1410141J5095D.jpg",
+        "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+        "id": 1
+    }
+]
