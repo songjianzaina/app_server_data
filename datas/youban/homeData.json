@@ -1,0 +1,378 @@
+{
+    "menuOne": {
+        "title": "LA系列混音插件的安装与使用",
+        "subtitle": "国外精品教程",
+        "icon_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test02.jpg",
+        "bg_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test02.jpg",
+        "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+        "id": 2
+    },
+    "menuTwo": {
+        "title": "不使用EQ加厚人声的技巧",
+        "subtitle": "国外精品教程",
+        "icon_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test03.jpg",
+        "bg_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test03.jpg",
+        "viewCounts": "600万",
+        "id": 3
+    },
+    "viewpagerList": [
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "img_url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563962593431&di=0993d18306be8b15fcfde86389760e63&imgtype=0&src=http%3A%2F%2Fpic5.nipic.com%2F20091224%2F3822085_091707089473_2.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 1
+        },
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "img_url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563962644435&di=6ddc50c7322c2aa4f5a67c6370a6eb6f&imgtype=0&src=http%3A%2F%2Fpic19.nipic.com%2F20120302%2F2786001_164927058000_2.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 1
+        },
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "img_url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563962663077&di=65e98662b7e42bfd68c7f1cb550c8b9b&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201612%2F16%2F20161216235942_Lmc4W.jpeg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 1
+        },
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "img_url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563962864021&di=17408e4850614558dd6aa5bee1cadb64&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201702%2F11%2F20170211162136_MkPcy.jpeg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 1
+        }
+    ],
+    "foreignList": [
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test01.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 1
+        },
+        {
+            "title": "LA系列混音插件的安装与使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test02.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 2
+        },
+        {
+            "title": "不使用EQ加厚人声的技巧",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test03.jpg",
+            "viewCounts": "600万",
+            "id": 3
+        },
+        {
+            "title": "为什么学了这么多年的混音,却依然混不好一首歌,这个视频告诉你",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test04.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 4
+        },
+        {
+            "title": "JJP大师签名系列效果器的使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test05.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 5
+        },
+        {
+            "title": "侧链压缩的秘密",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test06.jpg",
+            "viewCounts": "600万",
+            "id": 6
+        },
+        {
+            "title": "如何处理好底鼓与贝斯之间融合度问题",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test07.jpg",
+            "viewCounts": "600万",
+            "id": 7
+        }
+    ],
+    "nativeList": [
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test01.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 1
+        },
+        {
+            "title": "LA系列混音插件的安装与使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test02.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 2
+        },
+        {
+            "title": "不使用EQ加厚人声的技巧",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test03.jpg",
+            "viewCounts": "600万",
+            "id": 3
+        },
+        {
+            "title": "为什么学了这么多年的混音,却依然混不好一首歌,这个视频告诉你",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test04.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 4
+        },
+        {
+            "title": "JJP大师签名系列效果器的使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test05.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 5
+        },
+        {
+            "title": "侧链压缩的秘密",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test06.jpg",
+            "viewCounts": "600万",
+            "id": 6
+        },
+        {
+            "title": "如何处理好底鼓与贝斯之间融合度问题",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test07.jpg",
+            "viewCounts": "600万",
+            "id": 7
+        }
+    ],
+    "vipList": [
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test01.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 1
+        },
+        {
+            "title": "LA系列混音插件的安装与使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test02.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 2
+        },
+        {
+            "title": "不使用EQ加厚人声的技巧",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test03.jpg",
+            "viewCounts": "600万",
+            "id": 3
+        },
+        {
+            "title": "为什么学了这么多年的混音,却依然混不好一首歌,这个视频告诉你",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test04.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 4
+        },
+        {
+            "title": "JJP大师签名系列效果器的使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test05.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 5
+        },
+        {
+            "title": "侧链压缩的秘密",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test06.jpg",
+            "viewCounts": "600万",
+            "id": 6
+        },
+        {
+            "title": "如何处理好底鼓与贝斯之间融合度问题",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test07.jpg",
+            "viewCounts": "600万",
+            "id": 7
+        }
+    ],
+    "openClassList": [
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test01.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 1
+        },
+        {
+            "title": "LA系列混音插件的安装与使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test02.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 2
+        },
+        {
+            "title": "不使用EQ加厚人声的技巧",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test03.jpg",
+            "viewCounts": "600万",
+            "id": 3
+        },
+        {
+            "title": "为什么学了这么多年的混音,却依然混不好一首歌,这个视频告诉你",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test04.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 4
+        },
+        {
+            "title": "JJP大师签名系列效果器的使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test05.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 5
+        },
+        {
+            "title": "侧链压缩的秘密",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test06.jpg",
+            "viewCounts": "600万",
+            "id": 6
+        },
+        {
+            "title": "如何处理好底鼓与贝斯之间融合度问题",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test07.jpg",
+            "viewCounts": "600万",
+            "id": 7
+        }
+    ],
+    "interviewList": [
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test01.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 1
+        },
+        {
+            "title": "LA系列混音插件的安装与使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test02.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 2
+        },
+        {
+            "title": "不使用EQ加厚人声的技巧",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test03.jpg",
+            "viewCounts": "600万",
+            "id": 3
+        },
+        {
+            "title": "为什么学了这么多年的混音,却依然混不好一首歌,这个视频告诉你",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test04.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 4
+        },
+        {
+            "title": "JJP大师签名系列效果器的使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test05.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 5
+        },
+        {
+            "title": "侧链压缩的秘密",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test06.jpg",
+            "viewCounts": "600万",
+            "id": 6
+        },
+        {
+            "title": "如何处理好底鼓与贝斯之间融合度问题",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test07.jpg",
+            "viewCounts": "600万",
+            "id": 7
+        }
+    ],
+    "equipmentList": [
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test01.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 1
+        },
+        {
+            "title": "LA系列混音插件的安装与使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test02.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 2
+        },
+        {
+            "title": "不使用EQ加厚人声的技巧",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test03.jpg",
+            "viewCounts": "600万",
+            "id": 3
+        },
+        {
+            "title": "为什么学了这么多年的混音,却依然混不好一首歌,这个视频告诉你",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test04.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "id": 4
+        },
+        {
+            "title": "JJP大师签名系列效果器的使用",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test05.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "id": 5
+        },
+        {
+            "title": "侧链压缩的秘密",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test06.jpg",
+            "viewCounts": "600万",
+            "id": 6
+        },
+        {
+            "title": "如何处理好底鼓与贝斯之间融合度问题",
+            "subtitle": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test07.jpg",
+            "viewCounts": "600万",
+            "id": 7
+        }
+    ]
+}
