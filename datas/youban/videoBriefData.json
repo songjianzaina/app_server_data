@@ -1,0 +1,118 @@
+{
+    "title": "迈阿密混音大师手把手教你如何混底鼓",
+    "username": "国外精品教程",
+    "head_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test01.jpg",
+    "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+    "viewCounts": "110万",
+    "creatTime": "2019-10-10",
+    "fansCounts": "110万",
+    "commentCounts": "110万",
+    "shareCounts": "110",
+    "likeCounts": "110",
+    "donateCounts": "110",
+    "collectCounts": "110",
+    "isFollowAuthor": "1",
+    "isCollectVideo": "1",
+    "islikeVideo": "1",
+    "isdislikeVideo": "1",
+    "isdisShareVideo": "1",
+    "isdisDonateVideo": "1",
+    "brief": "最新的混音教程 欢迎大家关注哦",
+    "id": 1,
+    "tagList": [
+        "混音",
+        "音乐人",
+        "音乐制作",
+        "母带"
+    ],
+    "albumList": [
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "username": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test01.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "commentCounts": "110万",
+            "id": 1
+        },
+        {
+            "title": "LA系列混音插件的安装与使用",
+            "username": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test02.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "commentCounts": "110万",
+            "id": 2
+        },
+        {
+            "title": "不使用EQ加厚人声的技巧",
+            "username": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test03.jpg",
+            "viewCounts": "600万",
+            "commentCounts": "110万",
+            "id": 3
+        }
+    ],
+    "relatedVideoList": [
+        {
+            "title": "迈阿密混音大师手把手教你如何混底鼓",
+            "username": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test01.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "commentCounts": "110万",
+            "id": 1
+        },
+        {
+            "title": "LA系列混音插件的安装与使用",
+            "username": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test02.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "commentCounts": "110万",
+            "id": 2
+        },
+        {
+            "title": "不使用EQ加厚人声的技巧",
+            "username": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test03.jpg",
+            "viewCounts": "600万",
+            "commentCounts": "110万",
+            "id": 3
+        },
+        {
+            "title": "为什么学了这么多年的混音,却依然混不好一首歌,这个视频告诉你",
+            "username": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test04.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "110万",
+            "commentCounts": "110万",
+            "id": 4
+        },
+        {
+            "title": "JJP大师签名系列效果器的使用",
+            "username": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test05.jpg",
+            "target_url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8",
+            "viewCounts": "310万",
+            "commentCounts": "110万",
+            "id": 5
+        },
+        {
+            "title": "侧链压缩的秘密",
+            "username": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test06.jpg",
+            "viewCounts": "600万",
+            "commentCounts": "110万",
+            "id": 6
+        },
+        {
+            "title": "如何处理好底鼓与贝斯之间融合度问题",
+            "username": "国外精品教程",
+            "img_url": "https://raw.githubusercontent.com/songjianzaina/app_server_data/master/datas/youban/images/test07.jpg",
+            "viewCounts": "600万",
+            "commentCounts": "110万",
+            "id": 7
+        }
+    ]
+}
